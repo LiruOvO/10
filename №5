@@ -2,7 +2,7 @@
 #include <cmath>
 
 using namespace std;
-//Liza Ruda
+//Liza Ruda Варіант 12
 
 //Рахує значення виразу та виводить його
 int main()
