@@ -3,7 +3,7 @@
 #include <cmath>
 
 using namespace std;
-//Liza Ruda FIT 1-4
+//Liza Ruda FIT 1-4 Варіант 12
 int main()
 {
 	setlocale(0, ".1251");
