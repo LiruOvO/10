@@ -1,9 +1,8 @@
-
 #include <iostream>
 #include <cmath>
 
 using namespace std;
-//Liza Ruda Варіант 27
+//Liza Ruda FIT 1-4 Варіант 27
 
 int main()
 {
@@ -22,6 +21,6 @@ int main()
 	p = sqrt(pow(x, 2) + pow(a, 2));
 	y = pow(atan(abs(p)),3);
 
-	cout << "Результат x=" << x << " ,p=" << p << " ,y="<< y <<endl;
+	cout << "Результат y = "<< y <<endl;
 	return 0;
 }
